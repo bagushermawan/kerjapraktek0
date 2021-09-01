@@ -25,11 +25,11 @@ php artisan migrate:refresh --seed
 ```
 
 
-#### Demo Admin Login
+#### Demo Superadmin Login
 *  Email: qwe@qwe.com
 *  Password: qwe
 
-#### Demo Editor Login
+#### Demo Admin Login
 *  Email: editor@example.com
 *  Password: 1234
 
